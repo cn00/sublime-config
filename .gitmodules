@@ -10,3 +10,6 @@
 [submodule "Packages/unity-completions-light"]
 	path = Packages/unity-completions-light
 	url = git@github.com:oferei/sublime-unity-completions-light.git
+[submodule "Packages/Unity-Shader"]
+	path = Packages/Unity-Shader
+	url = git@github.com:cjsjy123/Unity-Shader.git
