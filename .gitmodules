@@ -1,6 +1,6 @@
-[submodule "Packages/package_control"]
-	path = Packages/package_control
-	url = git@github.com:wbond/package_control.git
 [submodule "Packages/CMake"]
 	path = Packages/CMake
 	url = git@github.com:zyxar/Sublime-CMakeLists.git
+[submodule "Packages/Terminus"]
+	path = Packages/Terminus
+	url = git@github.com:randy3k/Terminus.git
